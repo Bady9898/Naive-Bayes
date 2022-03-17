@@ -1,7 +1,6 @@
 # Naive-Byes
 
-1) Prepare a classification model using Naive Bayes 
-for salary data 
+1) Prepare a classification model using Naive Bayes for salary data 
 
 Data Description:
 
